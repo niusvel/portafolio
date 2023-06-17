@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+pipenv/
 
 # testing
 /coverage
@@ -21,3 +22,24 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Ignore virtual environment files
+venv/
+env/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore log files
+*.log
+
+# Ignore generated files
+*.db
+*.sqlite
+
+# Ignore configuration files with sensitive information
+config.ini
+
+# Ignore deployment-specific files
+deploy/
