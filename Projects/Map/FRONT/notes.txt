@@ -1,0 +1,10 @@
+crear proyectos limpios de react online
+	https://codesandbox.io/s/react-compiler-forked-w4kqt8?file=/src/pages/Home/index.jsx
+providers de mapas de leaflet
+	https://leaflet-extras.github.io/leaflet-providers/preview/
+iconos para el mapa
+	https://www.flaticon.com/search/4?word=maps%20and%20trains
+obtener distancias mas cortas entre dos puntos (leaflet routing application)
+	https://www.liedman.net/leaflet-routing-machine/
+
+pudiera crear mi propio osrm para tener las rutas de los trenes?
