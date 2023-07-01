@@ -1,0 +1,5 @@
+npx create-react-app my-app
+
+npm install --save-dev jest @testing-library/react @testing-library/jest-dom @testing-library/user-event react-test-renderer @babel/plugin-proposal-private-property-in-object
+
+npm test -- --coverage
